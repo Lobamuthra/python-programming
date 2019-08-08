@@ -1,7 +1,7 @@
-a=5
+a=eval(input())
 if a>0: 
   print("Positive")
 elif a<0:
   print("Negative")
 else:
-    print("Zero")
+   print("Zero")
